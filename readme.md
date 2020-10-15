@@ -1,0 +1,1 @@
+This forte container was compiled for raspbian image raspbian/strench. Once luanching forte containers on raspi, 4diac function blocks can be executed in forte containers by idicating the host IP and container ports.
